@@ -44,5 +44,5 @@
     return c;
    }
 
-## hapter-3: String 
+## chapter-3: String 
 
