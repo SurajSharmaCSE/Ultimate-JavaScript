@@ -1,0 +1,15 @@
+{
+  "name": "7.-javascript-on-the-server(backend)",
+  "version": "1.0.0",
+  "description": "Hello backend",
+  "main": "1. node_module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-node": "^1.0.1"
+  }
+}
