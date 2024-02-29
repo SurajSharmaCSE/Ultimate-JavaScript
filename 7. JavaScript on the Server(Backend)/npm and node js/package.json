@@ -1,8 +1,8 @@
 {
-  "name": "7.-javascript-on-the-server(backend)",
+  "name": "npm-and-node-js",
   "version": "1.0.0",
-  "description": "Hello backend",
-  "main": "1. node_module.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pdf-node": "^1.0.1"
+    "pdf-node": "^1.0.1",
+    "phantomjs-prebuilt": "^2.1.16"
   }
 }
